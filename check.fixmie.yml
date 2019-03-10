@@ -1,0 +1,7 @@
+go:
+  comments:
+    disabled: true
+
+ignore:
+ - "test_data/"
+ - "*.js.go"
